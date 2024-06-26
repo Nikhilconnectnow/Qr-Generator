@@ -52,4 +52,3 @@ To run this application locally, follow these steps:
 
 ---
 
-Adjust the sections and details based on your specific project implementation and requirements. Make sure to replace placeholders like `https://github.com/your-username/your-repository.git` with the actual URL to your GitHub repository. This README.md file provides a clear overview of your project, its functionality, installation instructions, usage guidelines, and how others can contribute.
